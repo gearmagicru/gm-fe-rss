@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-fe-rss",
-    "description": "Module \"Publish RSS feed\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "module",
-        "tags"
-    ],
+    "description": "Website module \"Publish RSS feed\"",
+    "keywords": ["gearmagic", "gm-site", "gm-component", "gm-module", "module", "rss"],
     "homepage": "https://apps.gearmagic.ru/component/gm-fe-rss",
     "type": "component",
     "license": "MIT",
